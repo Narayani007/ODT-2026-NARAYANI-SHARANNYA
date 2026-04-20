@@ -280,7 +280,7 @@ There is no external app; the entire interaction is physical and self-contained,
 Add an early sketch of the full idea.
 
 **Insert image below:**  
-`[Upload image and link here]`
+`[attached in mages folder>scroll down till more pages]`
 
 Example:
 ```md
